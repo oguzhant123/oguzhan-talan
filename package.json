@@ -1,0 +1,29 @@
+{
+  "name": "oguzhan-talan",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "oguzhan": "echo 'Benim adım Oguzhan'",
+    "start": " node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Oguzhan Talan",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.11",
+    "nodemailer": "^6.4.6",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oguzhant123/oguzhan-talan.git"
+  }
+}
